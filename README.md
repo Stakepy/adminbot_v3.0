@@ -1,1 +1,3 @@
-# adminbot_v3.0
+Packages to install:
+
+pip install python-telegram-bot (v13.7)
